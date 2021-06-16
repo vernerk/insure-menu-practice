@@ -1,4 +1,9 @@
-body {
-    font-family: 'Karla', sans-serif;
-    font-size: 2rem;
-  }
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
